@@ -1,5 +1,4 @@
-# Sachin Sharma
-## Business Analyst  
+# Business Analyst  
 sachinsharmaanalyst98@gmail.com | Phone: +44 7570005109 | LinkedIn: linkedin.com/in/sachinsharma786
 
 ---
