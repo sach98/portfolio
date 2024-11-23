@@ -65,7 +65,3 @@ I am a logical and detail-oriented Business Analyst with over 4 years of experie
 
 ### **References**  
 Available upon request.
-
----
-
-This revised CV emphasizes business analysis skills and relevant achievements, aligning better with your aspirations. Let me know if you'd like further adjustments!
