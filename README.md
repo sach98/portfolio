@@ -1,66 +1,65 @@
-# Business Analyst  
-sachinsharmaanalyst98@gmail.com | Phone: +44 7570005109 | LinkedIn: linkedin.com/in/sachinsharma786
+**Sachin Sharma**  
+**Business Analyst**  
+Email: sachinsharmaanalyst98@gmail.com | Phone: +44 7570005109  
+LinkedIn: linkedin.com/in/sachinsharma786 | GitHub: github.com/sach98  
 
 ---
 
 ### **Professional Summary**  
-I am a logical and detail-oriented Business Analyst with over 4 years of experience in delivering impactful solutions across financial services and educational sectors. Skilled in translating complex business requirements into actionable technical solutions, I excel in structured project environments. With expertise in Agile methodologies, data visualization, and process optimization, I leverage my analytical skills to drive business decisions and achieve strategic goals.
+Logical and results-oriented Business Analyst with 5+ years of experience delivering data-driven solutions in financial services and education. Proficient in translating complex business requirements into actionable technical solutions using Agile and Waterfall methodologies. Expertise in SQL, Python, R, Tableau, and Power BI, with a strong track record in data analysis, process optimization, and stakeholder engagement. Skilled in driving strategic goals, regulatory compliance, and cross-functional team collaboration.  
 
 ---
 
 ### **Education**  
+**University of Exeter, Business School** – Exeter, UK  
+*Master of Science in Business Analytics* (Jan 2022 – Jan 2023)  
+- Modules: Python, R, SQL and NoSQL Databases, Natural Language Processing, Predictive Modeling, Tableau, Power BI, Process Optimization, Regulatory Compliance, Cloud Computing, Azure Deployment.  
+- **Scholarship:** University of Exeter Business School Future Leaders Scholarship.  
 
-**University of Exeter, Business School, Exeter, UK**  
-*Master of Science in Business Analytics* (Jan 2022–Jan 2023)  
-- Key modules: Data cleaning (Python, R), SQL and NoSQL databases, natural language processing, statistical analysis, data visualization (Tableau, Power BI), and process optimization.  
-- Proficient in Agile methodologies including Scrum, Kanban, and SAFe.  
-- Recipient of the University of Exeter Business School Future Leaders Scholarship.  
-
-**OPJS University, School of Management, Jaipur, India**  
-*Bachelor's in Business Administration* (June 2016–June 2019)  
-- Key modules: Business research methods (IBM SPSS), organizational behavior, project management, and management information systems.  
-- Achieved Distinction.  
+**OPJS University, School of Management** – Jaipur, India  
+*Bachelor's in Business Administration* (June 2016 – June 2019)  
+- Modules: Business Communication, Economics, Agile (Scrum, Kanban), IFRS 17 Standards, SDLC, Lean Techniques, Total Quality Management, and Management Information Systems.  
+- **Grade:** Distinction.  
 
 ---
 
 ### **Professional Experience**  
 
-**Lloyds Banking Group, Exeter, UK**  
-*Insurance Analyst* (Sep 2023–Present)  
-- Conducted in-depth market research and delivered actionable FCA-compliant reports, supporting strategic business decisions for over 400 clients.  
-- Optimized financial product strategies, surpassing revenue targets by 20% and generating an average monthly revenue of £21,000.  
-- Enhanced business processes and improved client experience, earning the “Best Managed Client” and “Highest Earner” awards.  
+**Lloyds Banking Group** – Exeter, UK  
+*Insurance Analyst* (Sep 2023 – Present)  
+- Conducted market research and created FCA-compliant reports for 400+ clients, generating £150,000+ in revenue.  
+- Delivered tailored financial strategies, achieving an average monthly revenue increase of £21,000 and maintaining a 5-star Trustpilot rating.  
+- Awarded "Best Managed Client" and "Highest Earner" for exceptional customer relationship management and revenue generation.  
 
-**Aaradhana Kala Kendra, New Delhi, India**  
-*Business Analyst* (Sep 2019–Jan 2022)  
-- Led the development of a SaaS application using Agile methodologies, improving supply chain performance by 15%.  
-- Conducted stakeholder analysis with 160 participants, capturing critical user requirements during the pandemic.  
-- Revamped the organizational database, improving decision-making efficiency by 10%.  
-- Delivered training sessions to 200 employees on adopting new systems, facilitating successful change management.  
+**Aaradhana Kala Kendra** – New Delhi, India  
+*Business Analyst* (Sep 2019 – Jan 2022)  
+- Spearheaded a SaaS application project using Agile methodologies, improving supply chain performance by 15%.  
+- Conducted primary research with 160 external stakeholders, identifying new user requirements during the pandemic.  
+- Trained 200 employees on new products, enhancing organizational adoption and performance by 10%.  
 
-**Nurturing Wealth, New Delhi, India**  
-*Mutual Funds and Insurance Analyst* (Sep 2020–Mar 2021)  
-- Analyzed client portfolios to enhance investment strategies, achieving an 18% average annual growth rate.  
-- Developed financial models to assess risk tolerance and debt profiles, increasing assets under management by 20%.  
-- Utilized SEO and targeted marketing to boost brand awareness and sales by 25%.  
+**Nurturing Wealth** – New Delhi, India  
+*Mutual Funds and Insurance Analyst* (Sep 2020 – Mar 2021)  
+- Analyzed risk tolerance and investment goals for 200+ clients, increasing assets under management (AUM) by 20%.  
+- Managed trading portfolios across equity markets in India, UK, and US, achieving an 18% average annual growth rate (AAGR).  
+- Utilized UML diagrams and BPMN notation to enhance workflow documentation and stakeholder communication.  
 
 ---
 
-### **Skills**  
-
-- **Technical Tools:** SQL, Python, R, Tableau, Power BI, CRM tools (Oracle).  
-- **Business Analysis:** Requirements gathering, stakeholder analysis, process improvement, regulatory compliance.  
-- **Methodologies:** Agile, Scrum, SDLC, Kanban, Lean.  
+### **Technical Skills**  
+- **Programming Languages:** SQL, Python, R  
+- **Data Visualization:** Tableau, Power BI  
+- **Process Modeling:** UML, BPMN  
+- **Tools:** Oracle, FileMaker, LunarCRM, Azure  
+- **Methodologies:** Agile (Scrum, Kanban, SAFe), Waterfall, Lean Techniques  
+- **Other Skills:** UK/US Market Trading, Project Coordination, Stakeholder Engagement  
 
 ---
 
 ### **Certifications**  
-
-- **Chartered Insurance Institute (CII):** R05 (Financial Protection) and R01 (Financial Services, Regulation, and Ethics)  
-- **Google:** Data Analytics Professional Certificate, Advanced Data Analytics Professional Certificate  
-- **Technical Tools:** Power BI, Tableau, Fundamentals of AI & ML, Advanced Data Science Methods  
-
----
-
-### **References**  
-Available upon request.
+- Chartered Insurance Institute (CII): R05 (Financial Protection), R01 (Financial Services, Regulation, and Ethics)  
+- Google Data Analytics Professional Certificate  
+- Google Advanced Data Analytics Professional Certificate  
+- Microsoft Power BI and Azure Fundamentals  
+- Tableau  
+- Fundamentals of AI & ML  
+- Advanced Data Science Methods  
